@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shohruzbek</h1>
-<h3 align="center">I'm JUNIOR developer from Xorazm</h3>
+<h3 align="center">I'm junior developer from Xorazm</h3>
 
 ---
 
