@@ -2,7 +2,7 @@
 <h3 align="center">I'm junior developer from Xorazm</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=24&center=true&vCenter=true&width=500&lines=API+%26+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=24&center=true&vCenter=true&width=700&lines=I+am+a+Junior+Developer;I+am+interested+in+Telegram+Bot+Development;I+love+creating+Games+and+Fun+Projects" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-🌐 Connect with me
+### 🌐 Connect with me
 
 <p>
   <a href="https://t.me/olimov_100">
@@ -23,7 +23,7 @@
 
 ---
 
- 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" />
