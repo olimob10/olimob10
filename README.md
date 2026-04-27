@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shohruzbek</h1>
-<h3 align="center">I'm junior developer from Xorazm</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=24&center=true&vCenter=true&width=700&lines=I+am+a+Junior+Developer;I+am+interested+in+Telegram+Bot+Development;I+love+creating+Games+and+Fun+Projects" />
